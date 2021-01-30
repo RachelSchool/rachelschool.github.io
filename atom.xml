@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>奇点</title>
   
-  <subtitle>Cloud Security Lab and Practices</subtitle>
+  <subtitle>云是安全起点，不是终点</subtitle>
   <link href="http://lulukelu.github.io/atom.xml" rel="self"/>
   
   <link href="http://lulukelu.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://lulukelu.github.io/</id>
   
   <author>
-    <name>Luke Lu</name>
+    <name>Luke</name>
     
   </author>
   
