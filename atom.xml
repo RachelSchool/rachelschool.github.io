@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>云安全之路</title>
+  <title>快乐中文国际学校</title>
   
-  <subtitle>云安全是新起点-不是终点</subtitle>
-  <link href="http://lulukelu.github.io/atom.xml" rel="self"/>
+  <subtitle>有趣的故事！奇妙的中文！快乐的学习！</subtitle>
+  <link href="http://rachelschool.github.io/atom.xml" rel="self"/>
   
-  <link href="http://lulukelu.github.io/"/>
+  <link href="http://rachelschool.github.io/"/>
   <updated>2021-02-04T06:38:31.340Z</updated>
-  <id>http://lulukelu.github.io/</id>
+  <id>http://rachelschool.github.io/</id>
   
   <author>
-    <name>Luke</name>
+    <name>Rachel</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="http://lulukelu.github.io/2021/01/28/my-first-blog/"/>
-    <id>http://lulukelu.github.io/2021/01/28/my-first-blog/</id>
+    <link href="http://rachelschool.github.io/2021/01/28/my-first-blog/"/>
+    <id>http://rachelschool.github.io/2021/01/28/my-first-blog/</id>
     <published>2021-01-28T10:38:58.000Z</published>
     <updated>2021-02-04T06:38:31.340Z</updated>
     
@@ -28,21 +28,21 @@
     
     
     
-    <category term="默认分类" scheme="http://lulukelu.github.io/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
+    <category term="默认分类" scheme="http://rachelschool.github.io/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
     
     
-    <category term="tag1" scheme="http://lulukelu.github.io/tags/tag1/"/>
+    <category term="tag1" scheme="http://rachelschool.github.io/tags/tag1/"/>
     
-    <category term="tag2" scheme="http://lulukelu.github.io/tags/tag2/"/>
+    <category term="tag2" scheme="http://rachelschool.github.io/tags/tag2/"/>
     
-    <category term="tag3" scheme="http://lulukelu.github.io/tags/tag3/"/>
+    <category term="tag3" scheme="http://rachelschool.github.io/tags/tag3/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://lulukelu.github.io/2021/01/28/hello-world/"/>
-    <id>http://lulukelu.github.io/2021/01/28/hello-world/</id>
+    <link href="http://rachelschool.github.io/2021/01/28/hello-world/"/>
+    <id>http://rachelschool.github.io/2021/01/28/hello-world/</id>
     <published>2021-01-28T09:07:47.492Z</published>
     <updated>2021-01-28T09:07:47.492Z</updated>
     
