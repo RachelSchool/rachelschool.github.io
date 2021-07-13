@@ -6,7 +6,7 @@
   <link href="http://rachelschool.github.io/atom.xml" rel="self"/>
   
   <link href="http://rachelschool.github.io/"/>
-  <updated>2021-02-04T06:38:31.340Z</updated>
+  <updated>2021-07-13T03:08:19.296Z</updated>
   <id>http://rachelschool.github.io/</id>
   
   <author>
@@ -17,46 +17,86 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://rachelschool.github.io/2021/01/28/my-first-blog/"/>
-    <id>http://rachelschool.github.io/2021/01/28/my-first-blog/</id>
-    <published>2021-01-28T10:38:58.000Z</published>
-    <updated>2021-02-04T06:38:31.340Z</updated>
+    <title>Hello! International Happy Chinese Language School!</title>
+    <link href="http://rachelschool.github.io/2021/07/13/hello-world/"/>
+    <id>http://rachelschool.github.io/2021/07/13/hello-world/</id>
+    <published>2021-07-12T23:05:14.000Z</published>
+    <updated>2021-07-13T03:08:19.296Z</updated>
     
     
-    <summary type="html">云安全是一种新的发展趋势，不但能够将安全覆盖到全流程、全服务、全功能，也能将安全深入到漏洞、风险的具体场景。所以未来在云上构建安全解决方案和最佳实践，更有利于提高安全效率，平衡安全的效果。</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://rachelschool.github.io/&quot;&gt;IHCLS&lt;/a&gt;! This is our  first WebSite. Check &lt;a</summary>
+        
+      
     
     
     
-    <category term="默认分类" scheme="http://rachelschool.github.io/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
+    <category term="快乐中文" scheme="http://rachelschool.github.io/categories/%E5%BF%AB%E4%B9%90%E4%B8%AD%E6%96%87/"/>
     
     
-    <category term="tag1" scheme="http://rachelschool.github.io/tags/tag1/"/>
+    <category term="周五" scheme="http://rachelschool.github.io/tags/%E5%91%A8%E4%BA%94/"/>
     
-    <category term="tag2" scheme="http://rachelschool.github.io/tags/tag2/"/>
+    <category term="中文" scheme="http://rachelschool.github.io/tags/%E4%B8%AD%E6%96%87/"/>
     
-    <category term="tag3" scheme="http://rachelschool.github.io/tags/tag3/"/>
+    <category term="免费" scheme="http://rachelschool.github.io/tags/%E5%85%8D%E8%B4%B9/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://rachelschool.github.io/2021/01/28/hello-world/"/>
-    <id>http://rachelschool.github.io/2021/01/28/hello-world/</id>
-    <published>2021-01-28T09:07:47.492Z</published>
-    <updated>2021-01-28T09:07:47.492Z</updated>
+    <title>每周五免费学</title>
+    <link href="http://rachelschool.github.io/2021/07/13/my-first-blog-1/"/>
+    <id>http://rachelschool.github.io/2021/07/13/my-first-blog-1/</id>
+    <published>2021-07-12T23:05:14.000Z</published>
+    <updated>2021-07-13T02:55:42.945Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;每周五快乐中文免费学课程安排&quot;&gt;&lt;a href=&quot;#每周五快乐中文免费学课程安排&quot; class=&quot;headerlink&quot; title=&quot;每周五快乐中文免费学课程安排&quot;&gt;&lt;/a&gt;每周五快乐中文免费学课程安排&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th</summary>
         
       
     
     
     
+    <category term="快乐中文" scheme="http://rachelschool.github.io/categories/%E5%BF%AB%E4%B9%90%E4%B8%AD%E6%96%87/"/>
+    
+    
+    <category term="周五" scheme="http://rachelschool.github.io/tags/%E5%91%A8%E4%BA%94/"/>
+    
+    <category term="中文" scheme="http://rachelschool.github.io/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="免费" scheme="http://rachelschool.github.io/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>快乐中文国际学校介绍</title>
+    <link href="http://rachelschool.github.io/2021/06/28/my-first-blog/"/>
+    <id>http://rachelschool.github.io/2021/06/28/my-first-blog/</id>
+    <published>2021-06-28T10:38:58.000Z</published>
+    <updated>2021-07-13T02:58:29.853Z</updated>
+    
+    
+    <summary type="html">每周五 快乐中文 免费学。</summary>
+    
+    
+    
+    <category term="快乐中文" scheme="http://rachelschool.github.io/categories/%E5%BF%AB%E4%B9%90%E4%B8%AD%E6%96%87/"/>
+    
+    
+    <category term="中文" scheme="http://rachelschool.github.io/tags/%E4%B8%AD%E6%96%87/"/>
+    
+    <category term="免费" scheme="http://rachelschool.github.io/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+    <category term="快乐" scheme="http://rachelschool.github.io/tags/%E5%BF%AB%E4%B9%90/"/>
     
   </entry>
   
